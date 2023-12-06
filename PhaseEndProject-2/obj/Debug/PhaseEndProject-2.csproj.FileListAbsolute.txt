@@ -1,0 +1,7 @@
+G:\SimpliLearn\Assignments\PhaseEndProject-2\PhaseEndProject-2\bin\Debug\PhaseEndProject-2.exe.config
+G:\SimpliLearn\Assignments\PhaseEndProject-2\PhaseEndProject-2\bin\Debug\PhaseEndProject-2.exe
+G:\SimpliLearn\Assignments\PhaseEndProject-2\PhaseEndProject-2\bin\Debug\PhaseEndProject-2.pdb
+G:\SimpliLearn\Assignments\PhaseEndProject-2\PhaseEndProject-2\obj\Debug\PhaseEndProject-2.csproj.AssemblyReference.cache
+G:\SimpliLearn\Assignments\PhaseEndProject-2\PhaseEndProject-2\obj\Debug\PhaseEndProject-2.csproj.CoreCompileInputs.cache
+G:\SimpliLearn\Assignments\PhaseEndProject-2\PhaseEndProject-2\obj\Debug\PhaseEndProject-2.exe
+G:\SimpliLearn\Assignments\PhaseEndProject-2\PhaseEndProject-2\obj\Debug\PhaseEndProject-2.pdb
